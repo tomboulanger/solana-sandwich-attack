@@ -1,3 +1,5 @@
+<img width="1192" height="536" alt="Capture d’écran 2025-11-04 à 20 24 05" src="https://github.com/user-attachments/assets/ee695640-16a4-4925-9baf-926ed8162a94" />
+
 # Sandwich Bot (Proof of Concept)
 
 > ⚠️ **DISCLAIMER : POC uniquement – ne fonctionne pas en production !**  
@@ -55,6 +57,8 @@ Actuellement, le bot **ne fonctionne pas réellement**. Voici pourquoi :
    Pour un vrai bot sandwich, il faudrait :
    - Bundler la transaction de l’acheteur avec **nos deux transactions** (achat + revente)
    - Être extrêmement rapide (latence < ms)
+  
+6. **Le calcul du profit est incorrect, les frais de pools ne sont pas pris en compte
 
 ---
 
