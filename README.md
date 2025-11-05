@@ -1,4 +1,3 @@
-<img width="1400" height="788" alt="image" src="https://github.com/user-attachments/assets/56bceafb-c7d5-4adb-8662-5fc3561bb0b1" />
 
 <img width="1192" height="536" alt="Capture d’écran 2025-11-04 à 20 24 05" src="https://github.com/user-attachments/assets/ee695640-16a4-4925-9baf-926ed8162a94" />
 
