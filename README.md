@@ -20,7 +20,9 @@ Ce bot surveille les transactions sur Solana via WebSocket et tente d’identifi
 - Serum
 - Meteora
 
-Le bot récupère les transactions, analyse leur impact sur la capitalisation de marché (MCap) des tokens impliqués et détecte les transactions potentiellement profitables pour un sandwich.  
+Le bot récupère les transactions, analyse leur impact sur la capitalisation de marché (MCap) des tokens impliqués et détecte les transactions potentiellement profitables pour un sandwich.
+Un investisseur (personne X) effectue un achat important sur un token à faible capitalisation, entraînant une hausse notable de son cours en raison de la faible liquidité du marché.
+Un autre investisseur (personne Y), ayant identifié cette transaction avant son exécution, prend position juste avant l’achat de X, puis revend sa position immédiatement après, profitant ainsi de l’impact haussier généré par la transaction initiale.
 
 ---
 
